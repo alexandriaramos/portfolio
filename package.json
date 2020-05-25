@@ -6,8 +6,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test --env=jsdom --watchAll=false",
+    "lint": "eslint src"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,12 @@
   "bugs": {
     "url": "https://github.com/alexandriaramos/portfolio/issues"
   },
-  "dependencies": {
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "eslint": "^6.6.0",
+    "eslint-plugin-jest": "^23.13.1",
+    "eslint-plugin-react": "^7.20.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1"
