@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var o=t(0),r=t.n(o),a=t(2);function l(){return r.a.createElement("h1",null,"Alexandria Ramos | Portfolio")}t.n(a).a.render(r.a.createElement(l,null),document.getElementById("app"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.82953edf.chunk.js.map
