@@ -8,6 +8,6 @@ describe('App', () => {
         const wrapper = shallow(<App />);
         const title = wrapper.find('h1');
         expect(title).toHaveLength(1);
-        expect(title.props().children).toBe('Alexandria | Portfolio');
+        expect(title.props().children).toBe('Alexandria Ramos | Portfolio');
     });
 });
