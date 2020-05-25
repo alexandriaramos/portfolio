@@ -27,6 +27,5 @@ jobs:
     - run: npm ci
     - run: npm run lint
     - run: npm run test
-    - run: npm run build --if-present
-    - run: rm -fr docs/ && mv build/ docs/
+    - run: npm run build
     - run: git diff --check --exit-code docs
