@@ -18,6 +18,7 @@
   "bugs": {
     "url": "https://github.com/alexandriaramos/portfolio/issues"
   },
+  "homepage": "https://alexandriaramos.github.io/portfolio",
   "devDependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
