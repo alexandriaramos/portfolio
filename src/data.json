@@ -25,15 +25,15 @@
             "to": 2019,
             "role": "Instructional Designer",
             "company": "Fortworth Inc.",
-            "description": "Designed instructor-led learning experiences that simplify complex technical content about different software programs and technological devices using the ADDIE model and UbD framework.",
+            "description": "I designed instructor-led learning experiences that simplify complex technical content about different software programs and technological devices using the ADDIE model and UbD framework.",
             "type": "job"
         },
         {
-            "from": 2016,
+            "from": 2015,
             "to": 2016,
             "role": "Instructional Designer",
             "company": "Diwa Learning Systems Inc.",
-            "description": "Translated learning content into storyboards and learning material prototypes and K-12 learning content into storyboards for different learners.",
+            "description": "I translated learning content into storyboards and learning material prototypes and K-12 learning content into storyboards for different learners.",
             "type": "job"
         },
         {
@@ -41,7 +41,7 @@
             "to": 2016,
             "role": "Learning Experience Designer",
             "company": "FLIPPINO",
-            "description": "Designed the learning content for a mobile application for Filipino Dyslexic learners.",
+            "description": "I designed the learning content and assessments for a mobile application for Filipino Dyslexic learners.",
             "type": "job"
         },
         {
@@ -49,7 +49,7 @@
             "to": 2016,
             "role": "Student",
             "company": "De La Salle University",
-            "description": "Bachelor of Science in Computer Science with specialization in Instructional Systems Design",
+            "description": "Bachelor of Science in Computer Science with specialization in Instructional Systems Technology",
             "type": "student"
         },
         {
@@ -77,6 +77,24 @@
         {
             "title": "Basic Captivate Work Template",
             "type": "E-Learning Material",
+            "url": "https://alexandriaramos.github.io/basic-captivate-work-template/",
+            "image": "portfolio-1.jpg"
+        },
+        {
+            "title": "Technical Writer Onboarding",
+            "type": "Storyboard",
+            "url": "https://alexandriaramos.github.io/basic-captivate-work-template/",
+            "image": "portfolio-1.jpg"
+        },
+        {
+            "title": "FLIPPINO",
+            "type": "Mobile Learning Application",
+            "url": "https://alexandriaramos.github.io/basic-captivate-work-template/",
+            "image": "portfolio-1.jpg"
+        },
+        {
+            "title": "Learning Assessments",
+            "type": "Learning Activities",
             "url": "https://alexandriaramos.github.io/basic-captivate-work-template/",
             "image": "portfolio-1.jpg"
         }
