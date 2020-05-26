@@ -1,0 +1,61 @@
+.section-title {
+	h3 {
+		font-weight: 700;
+	    font-size: 28px;
+	    margin: 0 0 15px;
+	    position: relative;
+	    display: inline-block;
+	    vertical-align: top;
+	    z-index: 1;
+	    padding: 0 0 15px;
+	    &:after {
+    	    content: "";
+		    position: absolute;
+		    bottom: 0;
+		    left: 0;
+		    margin: auto;
+		    height: 2px;
+		    z-index: -1;
+		    background: $px-theme;
+		    width: 50px;
+		    .text-center & {
+		    	right: 0;
+		    }
+	    }
+	}
+	p{
+		margin: 0;
+	    font-size: 14px;
+	    letter-spacing: 2px;
+	}
+}
+
+.sm-title {
+	h6 {
+		font-weight: 600;
+	    text-transform: uppercase;
+	    font-size: 16px;
+	    color: $px-dark;
+	    position: relative;
+	    padding-left: 20px;
+	    margin: 0 0 15px;
+	    .dark-theme & {
+	    	color: $px-white;
+	    }
+	    &:after {
+	    	content: "";
+		    position: absolute;
+		    top: 0;
+		    left: 0;
+		    bottom: 0;
+		    margin: auto;
+		    width: 10px;
+		    height: 4px;
+		    background: $px-theme;
+	    }
+	}
+	p {
+		margin: 0;
+		font-weight: 400;
+	}
+}
