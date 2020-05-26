@@ -1,0 +1,84 @@
+{
+    "name": "Alexa Ramos",
+    "location": "San Francisco Bay Area",
+    "email": "alexandriameisramos@gmail.com",
+    "phone": "(323) 961-3042",
+    "role": "Instructional Designer",
+    "bio": "My passion is to contribute to an individual’s thought process by designing authentic learning experiences for them. Knowing that I get to help every kind of learner (of all ages!) learn is what motivates me to keep going every day. Check out my portfolio below.",
+    "avatar": "https://media-exp1.licdn.com/dms/image/C5103AQFdn42G1Z0CgA/profile-displayphoto-shrink_800_800/0?e=1596067200&v=beta&t=12eWZBoK1uSrLAOVaJ6R7NvQfq0JNi3rVT1uqwTOSTg",
+    "displayPhoto": "https://media-exp1.licdn.com/dms/image/C5103AQFdn42G1Z0CgA/profile-displayphoto-shrink_800_800/0?e=1596067200&v=beta&t=12eWZBoK1uSrLAOVaJ6R7NvQfq0JNi3rVT1uqwTOSTg",
+    "background": "https://wallpapercave.com/wp/wp2722601.png",
+    "skills": [
+        "ADDIE Model",
+        "Storyboarding",
+        "Adobe Captivate",
+        "Adobe Illustrator",
+        "Curriculum Writing",
+        "SME Collaborator",
+        "Instructional Design",
+        "Adult Learning Principles"
+    ],
+    "resume": "",
+    "jobs": [
+        {
+            "from": 2017,
+            "to": 2019,
+            "role": "Instructional Designer",
+            "company": "Fortworth Inc.",
+            "description": "Designed instructor-led learning experiences that simplify complex technical content about different software programs and technological devices using the ADDIE model and UbD framework.",
+            "type": "job"
+        },
+        {
+            "from": 2016,
+            "to": 2016,
+            "role": "Instructional Designer",
+            "company": "Diwa Learning System Inc.",
+            "description": "Translated learning content into storyboards and learning material prototypes and K-12 learning content into storyboards for different learners.",
+            "type": "job"
+        },
+        {
+            "from": 2015,
+            "to": 2016,
+            "role": "Learning Experience Designer",
+            "company": "FLIPPINO",
+            "description": "Designed the learning content for a mobile application for Filipino Dyslexic learners.",
+            "type": "job"
+        },
+        {
+            "from": 2011,
+            "to": 2016,
+            "role": "Student",
+            "company": "De La Salle University",
+            "description": "Bachelor of Science in Computer Science with specialization in Instructional Systems Design",
+            "type": "student"
+        },
+        {
+            "from": 2020,
+            "to": 0,
+            "role": "Student",
+            "company": "University of California, Berkeley",
+            "description": "Certificate in Adult and Continuing Education and Teaching",
+            "type": "education"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Skin Care Guide",
+            "type": "E-Learning Material",
+            "url": "https://alexandriaramos.github.io/skincare-guide/",
+            "image": "portfolio-1.jpg"
+        },
+        {
+            "title": "Technical Writer Onboarding",
+            "type": "E-Learning Material",
+            "url": "https://alexandriaramos.github.io/technical-writer-onboarding/",
+            "image": "portfolio-1.jpg"
+        },
+        {
+            "title": "Basic Captivate Work Template",
+            "type": "E-Learning Material",
+            "url": "https://alexandriaramos.github.io/basic-captivate-work-template/",
+            "image": "portfolio-1.jpg"
+        }
+    ]
+}
