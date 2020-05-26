@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import Row from './Row';
 import { getImageSource } from '../helpers';
 
-export default function Portfolio(props) {
+export default function Projects(props) {
     const { projects, role, location } = props;
 
     const pre = ['a', 'e', 'i', 'o', 'u'].includes(role[0].toLowerCase()) ? 'An' : 'A';
@@ -47,13 +47,13 @@ export default function Portfolio(props) {
     );
 }
 
-Portfolio.propTypes = {
-    projects: PropTypes.arrayOf({
+Projects.propTypes = {
+    projects: PropTypes.arrayOf(PropTypes.shape({
         title: PropTypes.string.isRequired,
         type: PropTypes.string.isRequired,
         url: PropTypes.string.isRequired,
         image: PropTypes.string.isRequired,
-    }).isRequired,
+    })).isRequired,
     role: PropTypes.string.isRequired,
     location: PropTypes.string.isRequired,
 };
