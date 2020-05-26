@@ -22,8 +22,8 @@ jobs:
         git pull github ${GITHUB_REF} --ff-only
         npm ci
         npm run build
-        git config --global user.name "GitHub Action"
-        git config --global user.email "no-reply@github.com"
+        git config --global user.name "Alexandria Ramos"
+        git config --global user.email "alexandriameisramos@gmail.com"
         git add docs/
-        git commit -m "Generated build files"
-        git push github HEAD:${GITHUB_REF}
+        git commit -m "Generated build files" && git push github HEAD:${GITHUB_REF} || echo "DONE"
+        
