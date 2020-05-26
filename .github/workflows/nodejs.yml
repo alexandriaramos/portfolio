@@ -28,4 +28,3 @@ jobs:
     - run: npm run lint
     - run: npm run test
     - run: npm run build
-    - run: git diff --check --exit-code docs
