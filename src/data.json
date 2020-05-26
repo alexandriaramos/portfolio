@@ -66,19 +66,19 @@
             "title": "Skin Care Guide",
             "type": "E-Learning Material",
             "url": "https://alexandriaramos.github.io/skincare-guide/",
-            "image": "portfolio-1.jpg"
+            "image": "Skincare Guide Image.png"
         },
         {
             "title": "Technical Writer Onboarding",
             "type": "E-Learning Material",
             "url": "https://alexandriaramos.github.io/technical-writer-onboarding/",
-            "image": "portfolio-1.jpg"
+            "image": "Technical Writer Onboarding Image.png"
         },
         {
-            "title": "Basic Captivate Work Template",
+            "title": "Sample Adobe Captivate Template",
             "type": "E-Learning Material",
             "url": "https://alexandriaramos.github.io/basic-captivate-work-template/",
-            "image": "portfolio-1.jpg"
+            "image": "Sample Template Image.png"
         },
         {
             "title": "Technical Writer Onboarding",
@@ -90,13 +90,13 @@
             "title": "FLIPPINO",
             "type": "Mobile Learning Application",
             "url": "https://drive.google.com/open?id=0BxXTXFV-4_cWMWEtRXh2TVVlUG8",
-            "image": "portfolio-1.jpg"
+            "image": "Flippino Image.png"
         },
         {
             "title": "Learning Assessments",
             "type": "Learning Activities",
             "url": "https://drive.google.com/open?id=1y73aLMuVwKkLIrNUGhdmom2HcrHA5VYN",
-            "image": "portfolio-1.jpg"
+            "image": "Assessment Image.png"
         }
     ]
 }
