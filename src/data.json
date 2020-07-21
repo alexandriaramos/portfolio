@@ -71,6 +71,12 @@
     ],
     "projects": [
         {
+            "title": "Intro to Endpoint",
+            "type": "E-Learning Material",
+            "url": "https://alexandriaramos.github.io/intro-to-endpoint/",
+            "image": "Intro to Endpoint.png"
+        },
+        {
             "title": "Skin Care Guide",
             "type": "E-Learning Material",
             "url": "https://alexandriaramos.github.io/skincare-guide/",
@@ -79,13 +85,13 @@
         {
             "title": "Technical Writer Onboarding",
             "type": "E-Learning Material",
-            "url": "#",
+            "url": "https://alexandriaramos.github.io/technical-writer-onboarding/",
             "image": "Technical Writer Onboarding Image.png"
         },
         {
-            "title": "Intro to Endpoint",
+            "title": "Sample Adobe Captivate Template",
             "type": "E-Learning Material",
-            "url": "https://alexandriaramos.github.io/intro-to-endpoint/",
+            "url": "https://alexandriaramos.github.io/basic-captivate-work-template/",
             "image": "Sample Template Image.png"
         },
         {
