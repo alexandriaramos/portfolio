@@ -79,13 +79,13 @@
         {
             "title": "Technical Writer Onboarding",
             "type": "E-Learning Material",
-            "url": "https://alexandriaramos.github.io/technical-writer-onboarding/",
+            "url": "#",
             "image": "Technical Writer Onboarding Image.png"
         },
         {
-            "title": "Sample Adobe Captivate Template",
+            "title": "Intro to Endpoint",
             "type": "E-Learning Material",
-            "url": "https://alexandriaramos.github.io/basic-captivate-work-template/",
+            "url": "https://alexandriaramos.github.io/intro-to-endpoint/",
             "image": "Sample Template Image.png"
         },
         {
