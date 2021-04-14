@@ -3,8 +3,8 @@
     "location": "San Francisco Bay Area",
     "email": "alexandriameisramos@gmail.com",
     "phone": "(323) 961-3042",
-    "role": "Instructional Designer",
-    "bio": "My passion is to contribute to an individual’s thought process by designing authentic learning experiences for them. Knowing that I get to help every kind of learner (of all ages!) learn is what motivates me to keep going every day. Check out my portfolio below.",
+    "role": "Learning and Development Specialist",
+    "bio": "My passion is to contribute to an individual’s thought process by designing authentic and highly effective learning experiences using e-Learning authoring tools. Check out my portfolio below.",
     "avatar": "IMG_1256-edited-sm.jpg",
     "displayPhoto": "IMG_1256-edited-sm.jpg",
     "background": "https://images.pexels.com/photos/1668246/pexels-photo-1668246.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
@@ -14,15 +14,26 @@
         "Adobe Captivate",
         "Adobe Illustrator",
         "Curriculum Writing",
+        "Curriculum Review"
         "SME Collaborator",
         "Instructional Design",
-        "Adult Learning Principles"
+        "Evolve authoring tool",
+        "Intellum Learning Management System",
+        "Kirkpatrick Model"
     ],
     "resume": "https://docs.google.com/document/d/1yW_NUtuevixLulrMTvSbxaVYSgB93Wsy80aP9SuHdWc/edit?usp=sharing",
     "jobs": [
-       {
+        {
             "from": 2020,
             "to": 0,
+            "role": "Learning and Development Specialist",
+            "company": "Scopus IT for Google",
+            "description": "I designed learning paths, learning experiences and reviewed e-Learning courses to ensure alignment to organization's vison and goals",
+            "type": "job"
+        },
+       {
+            "from": 2020,
+            "to": 2020,
             "role": "Curriculum Reviewer",
             "company": "Home and Media Products, LLC.",
             "description": "I reviewed curriculum content to ensure it aligns with the state standards and the identified learning goals.",
@@ -59,14 +70,6 @@
             "company": "De La Salle University",
             "description": "Bachelor of Science in Computer Science with specialization in Instructional Systems Technology",
             "type": "student"
-        },
-        {
-            "from": 2020,
-            "to": 0,
-            "role": "Student",
-            "company": "University of California, Berkeley",
-            "description": "Certificate in Adult and Continuing Education and Teaching",
-            "type": "education"
         }
     ],
     "projects": [
