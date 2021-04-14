@@ -14,23 +14,23 @@
         "Adobe Captivate",
         "Adobe Illustrator",
         "Curriculum Writing",
-        "Curriculum Review"
+        "Curriculum Review",
         "SME Collaborator",
         "Instructional Design",
-        "Evolve authoring tool",
+        "Evolve Authoring Tool",
         "Intellum Learning Management System",
         "Kirkpatrick Model"
     ],
     "resume": "https://docs.google.com/document/d/1yW_NUtuevixLulrMTvSbxaVYSgB93Wsy80aP9SuHdWc/edit?usp=sharing",
     "jobs": [
-        {
+       {
             "from": 2020,
             "to": 0,
             "role": "Learning and Development Specialist",
             "company": "Scopus IT for Google",
             "description": "I designed learning paths, learning experiences and reviewed e-Learning courses to ensure alignment to organization's vison and goals",
             "type": "job"
-        },
+       },
        {
             "from": 2020,
             "to": 2020,
